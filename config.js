@@ -1,6 +1,6 @@
-const oa_name = "张洪Heo";
+const oa_name = "科技岛屿";
 const oa_description = "分享设计与科技生活";
-const web_beian = "京ICP备19051325号-2";
+const web_beian = "";
 
 function replaceText(elementId, newText) {
   var element = document.getElementById(elementId);
