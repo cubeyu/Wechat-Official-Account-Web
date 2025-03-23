@@ -1,4 +1,4 @@
-# Wechat-Official-Account-Web
+# Wechat
 
  微信公众号的关注界面
  
